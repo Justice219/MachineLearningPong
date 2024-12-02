@@ -1,0 +1,12 @@
+{
+    "ball_speed": 9.726368159203979,
+    "paddle_speed": 5.0,
+    "demo_ball_speed": 5.0,
+    "demo_paddle_speed": 5.0,
+    "demo_glow_intensity": 180.0,
+    "demo_trail_length": 5,
+    "glow_intensity": 180.0,
+    "show_trails": true,
+    "trail_length": 5.0,
+    "ui_scale": 1.0
+}
