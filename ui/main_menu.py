@@ -151,7 +151,7 @@ class MainMenu:
             ),
             text="PONG AI",
             manager=self.manager,
-            object_id="#title_label"
+            object_id="#title_label",
         )
 
         # Create subtitle label with reduced spacing
